@@ -25,10 +25,13 @@ body {
 }
   
 .section-title {
-    border-bottom: 2px solid #dee7ec;
     font-size: 28px;
     padding-bottom: 15px;
     margin-bottom: 50px;
+}
+
+.section-p {
+    border-bottom: 2px solid #dee7ec;
 }
   
 .contents-item {
