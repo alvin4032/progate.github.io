@@ -107,7 +107,7 @@ footer {
     position: static;
 }
 
-@keyframes warnawarni {
+@keyframes warna {
     0% {color:red;}
     12.5% {color:orange;}
     25% {color:yellow;}
@@ -121,11 +121,47 @@ footer {
 
 footer p {
     float: right;
-    animation-name: warnawarni;
+    animation-name: warna;
     animation: 5s infinite;
 }
 
+@keyframes warna {
+    0% {
+        color: red;
+    }
 
+    12.5% {
+        color: orange;
+    }
+
+    25% {
+        color: yellow;
+    }
+
+    37.5% {
+        color: green;
+    }
+
+    50% {
+        color: blue;
+    }
+
+    62.5% {
+        color: turquoise;
+    }
+
+    75% {
+        color: purple;
+    }
+
+    87.5% {
+        color: red;
+    }
+
+    100% {
+        color: orange;
+    }
+}
 
 .menu-icon {
     color: white;
