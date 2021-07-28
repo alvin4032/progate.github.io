@@ -9,7 +9,15 @@
 
 body {
     margin: 0;
-    font-family: 'Lato';
+    font-family: 'Lato', sans-serif;
 }
 
+<<<<<<< HEAD
 >>>>>>> bcc8a14197e3557d852bfa8d1cfee6a7173db8a2
+=======
+.container {
+    max-width: 1170px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+>>>>>>> 8b8f407ba6031a0a8e2efdd1caac47a2d28cc258
