@@ -91,9 +91,9 @@ body {
     margin: 0 auto;
 }
 
-.contents-item p {
-    font-size: 24px;
-    margin-top: 15px;
+.contents-item h4 {
+    font-size: 20px;
+    margin-top: 10px;
 }
 
 
