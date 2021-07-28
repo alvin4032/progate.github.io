@@ -98,6 +98,9 @@ body {
     display: inline-block;
 }
 
+.contents-item p {
+    text-align: center;
+}
 
 footer {
     height: 55px;
