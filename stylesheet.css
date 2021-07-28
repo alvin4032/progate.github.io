@@ -79,6 +79,12 @@ body {
 .contents-item {
     float: left;
     margin-right: 40px;
+    transition: width 2s height 4s;
+}
+
+.contents-item:active {
+    width: 700px;
+    height: 420px;
 }
 
 .krb, .zoologi, .peta, .batutulis, .perjuangan, .kujang {
@@ -86,7 +92,6 @@ body {
     height: 210px;
     display: inline-block;
     margin: 0 auto;
-    transition: width 2s, height 2s;
 }
 
 .contents-item p {
