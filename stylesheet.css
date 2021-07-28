@@ -4,6 +4,11 @@
 
 body {
     margin: 0;
-    font-family: 'Lato';
+    font-family: 'Lato', sans-serif;
 }
 
+.container {
+    max-width: 1170px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
