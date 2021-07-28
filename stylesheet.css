@@ -1,3 +1,15 @@
+<<<<<<< HEAD
 .gambar1 {
     width: 100%;
 }
+=======
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Lato';
+}
+
+>>>>>>> bcc8a14197e3557d852bfa8d1cfee6a7173db8a2
