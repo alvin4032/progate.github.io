@@ -35,7 +35,12 @@ header {
     float: left;
     transition: all 0.5s;
     text-decoration: none;
+}
 
+.header-right a:hover {
+    color:black;
+    background-color: #a0c1d1;
+    
 }
 
 .header-left {
