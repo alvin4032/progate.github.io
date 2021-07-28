@@ -118,8 +118,7 @@ footer {
 
 footer p {
     float: right;
-    animation-name: warna;
-    animation: 5s infinite;
+    animation: warna 5s infinite;
 }
 
 @keyframes warna {
