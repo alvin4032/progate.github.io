@@ -20,6 +20,8 @@ header {
     opacity: 0.95;
 }
 
+
+
 .header-right {
     float: right;  
     margin-right: -25px;
@@ -38,6 +40,7 @@ header {
 
 .header-left {
     float: left;
+    line-height: 17px;
 }
 
 .container {
