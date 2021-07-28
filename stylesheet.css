@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 .gambar1 {
     width: 100%;
 }
-=======
+
 * {
     box-sizing: border-box;
 }
@@ -12,12 +11,35 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
-<<<<<<< HEAD
->>>>>>> bcc8a14197e3557d852bfa8d1cfee6a7173db8a2
-=======
 .container {
     max-width: 1170px;
     padding: 0 15px;
     margin: 0 auto;
 }
->>>>>>> 8b8f407ba6031a0a8e2efdd1caac47a2d28cc258
+
+body {
+    margin: 0;
+    font-family: 'Lato';
+}
+
+.contents {
+    height: 500px;
+    margin-top: 100px;
+}
+  
+.section-title {
+    border-bottom: 2px solid #dee7ec;
+    font-size: 28px;
+    padding-bottom: 15px;
+    margin-bottom: 50px;
+}
+  
+.contents-item {
+    float: left;
+    margin-right: 40px;
+}
+  
+.contents-item p {
+    font-size: 24px;
+    margin-top: 30px;
+}
