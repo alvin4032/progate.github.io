@@ -80,12 +80,53 @@ body {
 .contents-item {
     float: left;
     margin-right: 40px;
-    transition: width 2s height 4s;
 }
 
-.contents-item:hover {
-    width: 700px;
-    height: 420px;
+.contents-item a {
+    border: 5px solid transparent;
+    width: 500px;
+    float: left;
+    position: relative;
+    cursor: pointer;
+}
+.contents-item img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+.contents-item a:before {
+    transition: all .6s ease;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #333333;
+    transform: scale(0);
+    border-radius: 5px;
+}
+.contents-item a:hover:before {
+    opacity: .2;
+    transform: scale(1);
+}
+.contents-item a:after {
+    transition: all .7s ease .2s;
+    content: "";
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    right: 8px;
+    bottom: 8px;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    background: #252525;
+    opacity: 0;
+    transform: scale(0);
+}
+.contents-item a:hover:after {
+    opacity: .35;
+    transform: scale(1);
+    border-radius: 5px;
 }
 
 .krb, .zoologi, .peta, .batutulis, .perjuangan, .kujang {
