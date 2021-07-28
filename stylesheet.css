@@ -81,7 +81,7 @@ body {
   
 .contents-item {
     float: left;
-    margin-right: 40px;
+    width: 30%;
 }
 
 .krb, .zoologi, .peta, .batutulis, .perjuangan, .kujang {
