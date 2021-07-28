@@ -44,7 +44,13 @@ header {
 .header-left {
     float: left;
     line-height: 17px;
+<<<<<<< HEAD
     transition: all 0.2s;
+=======
+    cursor: context-menu;
+    transition: all 0.5s;
+    animation-timing-function: ease-in;
+>>>>>>> e662553ff39f7ba90c3da1648e4f1552a4d757a5
 }
 
 .header-left:hover {
