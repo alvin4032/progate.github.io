@@ -49,7 +49,7 @@ header {
 
 .header-left:hover {
     letter-spacing: 4px;
-    margin-right: 2px;
+    text-indent: 6px;
 }
 
 .container {
