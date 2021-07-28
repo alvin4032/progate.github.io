@@ -45,10 +45,11 @@ body {
 }
   
 .section-title {
-    border-bottom: 2px solid #dee7ec;
     font-size: 28px;
-    padding-bottom: 15px;
-    margin-bottom: 50px;
+}
+
+.section-p {
+    border-bottom: 2px solid #fff;
 }
   
 .contents-item {
@@ -56,13 +57,13 @@ body {
     margin-right: 40px;
 }
 
-.krb {
+.krb{
     width: 400px;
     height: 250px;
 }
 
 .zoologi {
-    width: 300px;
+    width: 400px;
     height: 250px;
 }
   
