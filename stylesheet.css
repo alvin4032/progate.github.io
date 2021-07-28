@@ -61,14 +61,6 @@ header {
     margin: 0 auto;
 }
 
-.bg {
-    background-color: #b5b2c2;
-    width: 1170px;
-    height: 100%;
-    z-index: -1;
-
-}
-
 body {
     margin: 0;
     font-family: 'Lato';
