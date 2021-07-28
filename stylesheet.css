@@ -45,7 +45,7 @@ header {
 
 .container {
     max-width: 1170px;
-    
+
     margin: 0 auto;
 }
 
@@ -89,8 +89,12 @@ footer {
     background-color: #232c33;
     color: white;
     opacity: 0.95;
-    float:left;
+    float:right;
     position: static;
+}
+
+footer p {
+    float: left;
 }
 
 .menu-icon {
