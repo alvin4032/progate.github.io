@@ -57,12 +57,7 @@ body {
     margin-right: 40px;
 }
 
-.krb{
-    width: 300px;
-    height: 187.5px;
-}
-
-.zoologi {
+.krb, .zoologi, .peta, .batutulis {
     width: 300px;
     height: 187.5px;
 }
