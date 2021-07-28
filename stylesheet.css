@@ -34,6 +34,11 @@ body {
     float: left;
     margin-right: 40px;
 }
+
+.krb {
+    width: 400px;
+    height: 250px;
+}
   
 .contents-item p {
     font-size: 24px;
