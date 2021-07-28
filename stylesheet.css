@@ -98,6 +98,10 @@ body {
     display: inline-block;
 }
 
+.contents-item h4 {
+    text-align: center;
+}
+
 .contents-item p {
     text-align: center;
 }
