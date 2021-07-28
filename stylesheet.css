@@ -22,6 +22,20 @@ header {
 
 .header-right {
     float: right;
+<<<<<<< HEAD
+=======
+    margin-right: -25px;
+}
+
+.header-right a {
+    line-height: 65px;
+    padding: 0 25px;
+    color: white;
+    display: block;
+    float: left;
+    transition: all 0.5s;
+    text-decoration: none;
+>>>>>>> d74aee6dd895220c142b0f1c368dc1cbf936bbb6
 }
 
 .header-left {
