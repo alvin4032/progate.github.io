@@ -44,7 +44,7 @@ header {
 .header-left {
     float: left;
     line-height: 17px;
-    cursor: pointer;
+    cursor: context-menu;
     transition: all 0.5s;
     animation-timing-function: ease-in;
 }
