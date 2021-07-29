@@ -2,4 +2,4 @@
 This is a reporsitory to save code from Progate Workshop.
 Any kind of lessons here
 
-Team : @rsonyw
+Team : @rsonyw @nikorr00
