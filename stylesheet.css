@@ -113,7 +113,7 @@ body {
 .krb, .zoologi, .peta, .batutulis, .perjuangan, .kujang {
     width: 350px;
     height: 210px;
-    display: inline-block;
+    display: block;
     margin-left: auto;
     margin-right: auto;
 
