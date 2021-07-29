@@ -15,10 +15,7 @@
 }
 
 /*untuk smartphone*/
-@media all and (max-width: 670px) {
-    .header-right {
-        display: none;
-    }
+@media all and (max-width: 850px) {
 
     span.menu-icon {
         display:block;
@@ -45,5 +42,9 @@
     footer {
         text-align: center;
         float:none;
+    }
+
+    .header-right {
+        display: none;
     }
 }
