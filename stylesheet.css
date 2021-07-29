@@ -92,11 +92,6 @@ body {
     margin-bottom: 3px;
   }
 
-.contents {
-    height: 500px;
-    margin-top: 100px;
-}
-  
 .section-title {
     font-size: 28px;
 }
@@ -104,17 +99,27 @@ body {
 .section-p {
     border-bottom: 2px solid #111;
 }
-  
+
+content {
+    padding-bottom: 80px;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: center;
+}
+
 .contents-item {
     float: left;
     width: 33.3333333%;
 }
 
-.krb, .zoologi, .peta, .batutulis, .perjuangan, .kujang {
-    width: 350px;
-    height: 210px;
-    display: inline-block;
+.img-content {
+    width: 95%;
+    height: 95%;
+    min-height: 120px;
+    max-height: 230px;
+    position: relative;
     margin: 0 auto;
+
 }
 
 .txt-contents {
