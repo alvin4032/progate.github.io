@@ -23,7 +23,7 @@
 
     .top-wrapper {
         text-align: left;
-        max-height: 250px;
+        min-height: 250px;
     }
 
     .top-wrapper h1 {
