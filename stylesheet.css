@@ -119,7 +119,6 @@ body {
     margin: 10px 0;
   }
   
-  /* Gantikan margin-right milik fa ke 5px */
   .fa {
     margin-right: 5px;
   }
@@ -139,7 +138,7 @@ body {
   
 .contents-item {
     float: left;
-    width: 33.3333333%;
+    width: 10.3333333%;
 }
 
 .krb, .zoologi, .peta, .batutulis, .perjuangan, .kujang {
