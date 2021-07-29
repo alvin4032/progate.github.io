@@ -7,6 +7,11 @@ body {
     font-family: 'Lato';
     background-color: #dadff7;
 }
+
+.clear {
+  clear: left;
+}
+
 /*header*/
 
 header {
