@@ -3,7 +3,7 @@
 }
 
 body {
-    margin-top: 15px;
+    margin-top: 0px;
     font-family: 'Lato';
     background-color: #dadff7;
 }
@@ -15,7 +15,7 @@ header {
     background-color: #232c33;
     position: fixed;
     top: 0;
-    z-index: 13;
+    z-index: 0;
     color: white;
     opacity: 0.95;
 }
